@@ -1,6 +1,6 @@
 # Quanthium - Financial Data
 
-This project is concept of application view. It is developed as a potential view in my upcoming financial application  Quanthium Finance. Future application will have more features, offer full integration capabilities etc. 
+This project is concept of application view. It is developed as a potential view in my upcoming financial application Quanthium Finance. Future application will have more features, offer full integration capabilities etc. 
 
 ## About the application
 
