@@ -17,4 +17,4 @@ The main project is aimed towards the businesses earlier mentioned, but also to 
 ![Showcase 1](https://github.com/christerjohansson/quanthium-diagrams/screens/showcase1.png)
 
 
-![Showcase 2](https://github.com/christerjohansson/quanthium-diagrams/screens/showcase2.png)
+![Showcase 2](https://github.com/christerjohansson/quanthium-diagrams/screens/showcase2.jpg)
